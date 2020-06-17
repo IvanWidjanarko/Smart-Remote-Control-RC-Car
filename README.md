@@ -25,7 +25,7 @@ Proyek Akhir Praktikum Sistem Berbasis Komputer oleh Kelompok 8B (SBK-02)
 
 ![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Smart%20Car%20Flowchart%20(2).jpg)
 
-![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Smart%20Car%20Flowchart%20(1).jpg)
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Smart%20Car%20Flowchart%20(3).jpg)
 
 ## Hasil Uji Coba / Simulasi
 
