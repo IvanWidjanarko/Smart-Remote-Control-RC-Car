@@ -30,28 +30,34 @@ Proyek Akhir Praktikum Sistem Berbasis Komputer oleh Kelompok 8B (SBK-02)
 ## Hasil Uji Coba / Simulasi
 
 ### Password Salah
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Invalid%20Password.jpg)
 
 ### Password Benar
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Valid%20Password.jpg)
 
-### Motor DC (IR Sensor & Remote)
-![alt text]()
+### Motor DC (IR Sensor & Remote) -> Maju (Tombol 2)
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/DC%20Motor.jpg)
 
 ### Photoresistor
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Photoresistor.jpg)
 
 ### Temperature Sensor
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Temperature%20Sensor.jpg)
 
 ### Ultrasonic Sensor
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Ultrasonic%20Sensor.jpg)
 
 ### Gas Sensor
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Gas%20Sensor.jpg)
 
 ### Tilt Sensor
-![alt text]()
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/Tilt%20Sensor.jpg)
+
+### I2C Temperature Sensor
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/I2C%20Temperature%20Sensor.jpg)
+
+### I2C Ultrasonic Sensor
+![alt text](https://github.com/IvanWidjanarko/Smart-Remote-Control-RC-Car/blob/master/I2C%20Ultrasonic%20Sensor.jpg)
 
 ## Skematik Rangkaian
 
